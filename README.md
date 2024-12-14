@@ -6,7 +6,7 @@ To-Do-list app created using Tkinter
 
 - Clone the repository 
 - Build docker file
-'''
+'''sh
 docker-compose build
 docker-compose up -d
 docker-compose exec app bash
