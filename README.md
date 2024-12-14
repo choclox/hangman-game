@@ -1,6 +1,6 @@
 # About
 
-To-Do-list app created using Tkinter
+Basic hangman game, just gess a letter to complete the word in the less posibles attemps.
 
 # Steps to install
 
