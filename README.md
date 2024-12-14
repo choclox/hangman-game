@@ -6,11 +6,11 @@ To-Do-list app created using Tkinter
 
 - Clone the repository 
 - Build docker file
-'''sh
+```sh
 docker-compose build
 docker-compose up -d
 docker-compose exec app bash
 cd app
 python hangman-game.py
-'''
+```
 
